@@ -1,0 +1,1 @@
+print("Message From mypcakge.__init__.py file : mypackage is being called")
